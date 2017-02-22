@@ -4,5 +4,9 @@
 *.swo
 *.o
 *.so
+*.iml
 .DS_Store
 .settings/**
+.idea
+classes
+target
